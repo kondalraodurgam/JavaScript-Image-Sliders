@@ -1,0 +1,12 @@
+body{
+	margin-top: 50px;
+}
+	button {
+    float:left;
+    height:50px;
+}
+img {
+    float:left;
+    margin-right:10px;
+    margin-left:10px;
+}
